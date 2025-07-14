@@ -1,7 +1,12 @@
 ##  Hi there 👋, I'm Víctor
 **A programming student with big ambitions.**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- 🔭 I’m currently working on personal projects
+
+- 🌱 I’m currently learning various programming languages.
+
+- 🤝 I’m looking for help with nothing yet
+
 <!--
 **Vicgomz/Vicgomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
