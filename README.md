@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with nothing yet
 
-Last Updated on 14/7/2025
+Last Updated on 14/7/2025 
 
 <!--
 **Vicgomz/Vicgomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
