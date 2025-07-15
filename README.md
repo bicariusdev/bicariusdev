@@ -7,19 +7,17 @@
 
 - 🤝 I’m looking for help with nothing yet
 
+## **Programming Languages I'm Learning:**
+[![My Skills](https://skillicons.dev/icons?i=cs,java,lua)](https://skillicons.dev)
+
+## **Programs I Normally Use:**
+[![My Skills](https://skillicons.dev/icons?i=blender,github,robloxstudio,unity,unreal,vscode)](https://skillicons.dev)
+
+## By the way here are some of my statistics 🚀
+![Vicgomz's github stats](https://github-readme-stats.vercel.app/api?username=Vicgomz&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vicgomz&theme=tokyonight" alt="mystreak"/>
+![Vicgomz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicgomz&theme=tokyonight&layout=compact)
+
+🌱 I’m currently learning
+
 Last Updated on 14/7/2025 
-
-<!--
-**Vicgomz/Vicgomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
