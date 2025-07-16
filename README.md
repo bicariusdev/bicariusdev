@@ -13,7 +13,7 @@
 ## **🕹️Programs I Normally Use:**
 [![My Skills](https://skillicons.dev/icons?i=blender,github,robloxstudio,unity,unreal,vscode)](https://skillicons.dev)
 
-## By the way here are some of my statistics 🚀
+## **🚀By the way here are some of my statistics**
 ![Vicgomz's github stats](https://github-readme-stats.vercel.app/api?username=Vicgomz&show_icons=true&theme=tokyonight)
 ![Vicgomz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicgomz&theme=tokyonight&layout=compact)
 
