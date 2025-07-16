@@ -8,7 +8,7 @@
 - 🤝 I’m looking for help with nothing yet
 
 ## **👨‍💻Programming Languages I'm Learning:**
-[![My Skills](https://skillicons.dev/icons?i=cs,java,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,lua,html,css,javascript)](https://skillicons.dev)
 
 ## **🕹️Programs I Normally Use:**
 [![My Skills](https://skillicons.dev/icons?i=blender,github,robloxstudio,unity,unreal,vscode)](https://skillicons.dev)
