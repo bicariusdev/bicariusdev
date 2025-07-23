@@ -8,10 +8,18 @@
 - 🤝 I’m looking for help with nothing yet
 
 ## **👨‍💻Programming Languages I'm Learning:**
-[![My Skills](https://skillicons.dev/icons?i=cs,java,html,css,javascript)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp" />
+  </a>
+</p>
 
-## **🕹️Programs I Normally Use:**
-[![My Skills](https://skillicons.dev/icons?i=blender,github,unity,unreal,godot,vscode)](https://skillicons.dev)
+## **🕹️Programs & Apps I Know:**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,github,unity,unreal,godot,vscode" />
+  </a>
+</p>
 
 ## **🚀By the way here are some of my statistics**
 ![Vicgomz's github stats](https://github-readme-stats.vercel.app/api?username=Vicgomz&show_icons=true&theme=tokyonight)
