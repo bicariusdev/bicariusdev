@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with nothing yet
 
-## **👨‍💻Programming Languages I'm Learning:**
+## **👨‍💻Actually Learning:**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,java" />
