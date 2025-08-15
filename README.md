@@ -22,7 +22,7 @@
 </p>
 
 ## **🚀By the way here are some of my statistics**
-![bicariusdev's github stats](https://github-readme-stats.vercel.app/api?username=Vicgomz&show_icons=true&theme=tokyonight)
+![bicariusdev's github stats](https://github-readme-stats.vercel.app/api?username=bicariusdev&show_icons=true&theme=tokyonight)
 <!-- ![bicariusdev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicgomz&theme=tokyonight&layout=compact) -->
 
 🌱 I’m currently learning
