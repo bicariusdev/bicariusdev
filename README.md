@@ -10,14 +10,14 @@
 ## **👨‍💻Actually Learning:**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,java,intellij" />
+    <img src="https://skillicons.dev/icons?i=blender,java" />
   </a>
 </p>
 
 ## **🕹️Programs & Apps I Know:**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,github,unity,unreal,godot,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,unity,unreal,godot,vscode" />
   </a>
 </p>
 
