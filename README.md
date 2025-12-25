@@ -1,4 +1,4 @@
-##  Hi there 👋, I'm BicariusHD
+##  Hi there 👋, I'm Bicarius
 **A programming student with big ambitions.**
 
 - 🔭 I’m currently working on personal projects
